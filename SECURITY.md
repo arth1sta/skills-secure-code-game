@@ -1,0 +1,1 @@
+editamos fichero vacío
