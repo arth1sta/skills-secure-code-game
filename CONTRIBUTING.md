@@ -1,3 +1,5 @@
+modifico un poquito para dar vidilla
+
 # Secure Code Game Contribution Guideline
 
 Thank you for your interest in contributing to the Secure Code Game. Let's collaborate and bring your ideas to life for a lasting impact on the global cybersecurity scene. Follow these guidelines:
